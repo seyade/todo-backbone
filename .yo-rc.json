@@ -1,0 +1,12 @@
+{
+  "generator-backbone": {
+    "appPath": "app",
+    "appName": "Todoapp",
+    "coffee": false,
+    "testFramework": "jasmine",
+    "templateFramework": "lodash",
+    "sassBootstrap": true,
+    "includeRequireJS": true
+  },
+  "generator-jasmine": {}
+}
